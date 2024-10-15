@@ -1,0 +1,14 @@
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\bin\Debug\net8.0\Converter.exe
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\bin\Debug\net8.0\Converter.deps.json
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\bin\Debug\net8.0\Converter.runtimeconfig.json
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\bin\Debug\net8.0\Converter.dll
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\bin\Debug\net8.0\Converter.pdb
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\obj\Debug\net8.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\obj\Debug\net8.0\Converter.AssemblyInfoInputs.cache
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\obj\Debug\net8.0\Converter.AssemblyInfo.cs
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\obj\Debug\net8.0\Converter.csproj.CoreCompileInputs.cache
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\obj\Debug\net8.0\Converter.dll
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\obj\Debug\net8.0\refint\Converter.dll
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\obj\Debug\net8.0\Converter.pdb
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\obj\Debug\net8.0\Converter.genruntimeconfig.cache
+C:\#Learning\2024C#\hw4\hw4Task3\Converter\Converter\obj\Debug\net8.0\ref\Converter.dll
